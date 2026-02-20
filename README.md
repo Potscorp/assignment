@@ -28,6 +28,7 @@ npm run dev
 ```
 
 Open http://localhost:5173
+https://task-frontend-clxs.onrender.com
 
 ## Features
 
